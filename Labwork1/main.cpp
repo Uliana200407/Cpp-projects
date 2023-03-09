@@ -1,8 +1,6 @@
 #include <iostream>
-#include <fstream>
-#include <string>
+
 #include <cstring>
-#include "Functions2.h"
 #include "Functions.h"
 
 using namespace std;

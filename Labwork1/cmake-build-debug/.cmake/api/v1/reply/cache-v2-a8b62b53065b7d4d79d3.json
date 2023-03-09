@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/mac/Desktop/Labwork1/cmake-build-debug"
+			"value" : "/Users/mac/Desktop/CppProjects-/Labwork1/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/mac/Desktop/Labwork1/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/mac/Desktop/CppProjects-/Labwork1/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/mac/Desktop/Labwork1"
+			"value" : "/Users/mac/Desktop/CppProjects-/Labwork1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/mac/Desktop/Labwork1/cmake-build-debug"
+			"value" : "/Users/mac/Desktop/CppProjects-/Labwork1/cmake-build-debug"
 		},
 		{
 			"name" : "code_IS_TOP_LEVEL",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/mac/Desktop/Labwork1"
+			"value" : "/Users/mac/Desktop/CppProjects-/Labwork1"
 		}
 	],
 	"kind" : "cache",
