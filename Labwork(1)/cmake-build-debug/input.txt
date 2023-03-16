@@ -1,0 +1,9 @@
+test = test + 789;
+a = a + 4567;
+ddd = ddd + 55000;
+test = test + 789;
+a = a + 4567;
+ddd = ddd + 55000;
+test = test + 789;
+a = a + 4567;
+ddd = ddd + 55000;
