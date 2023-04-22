@@ -7,4 +7,4 @@ This repository contains code for several labworks completed for a course in C++
 * Labwork(1) - the task involves working with text files in both C and C++ modes, focusing on the use of pointers and streams.This program is executed from the terminal.
 * Labwork(2) - for the intended purpose, manipulate binary files by deleting, adding, and updating data(I work with expiredProducts,perishable,non-perishable)
 * Labwork(3) - OOP(work with classes,incapsulation);
-* Labwork_4 - Operator overload;
+* Labwork(4) - Operator overload;
