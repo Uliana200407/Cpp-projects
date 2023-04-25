@@ -1,0 +1,8 @@
+# ninja log v5
+2	555	1682451142372631466	CMakeFiles/test_cpp2.dir/TSystemLinearEquation.cpp.o	1b6ced30f516a72f
+0	558	1682451142377262467	CMakeFiles/test_cpp2.dir/main.cpp.o	5d3c1ca7c224c4b6
+2	568	1682451142386801720	CMakeFiles/test_cpp2.dir/TSystemL3inearEquation.cpp.o	f6b8df652a61ccb7
+2	568	1682451142386758803	CMakeFiles/test_cpp2.dir/TSystem2LinearEquation.cpp.o	65ca1d4607a0c80a
+568	616	1682451142438062150	test_cpp2	5c3725683ad7f275
+22	580	1682451730675928257	CMakeFiles/test_cpp2.dir/TSystemL3inearEquation.cpp.o	f6b8df652a61ccb7
+580	624	1682451730722185857	test_cpp2	5c3725683ad7f275
