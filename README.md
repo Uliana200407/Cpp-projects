@@ -9,3 +9,5 @@ This repository contains code for several labworks completed for a uni studying 
 * Labwork(3) - OOP(work with classes,incapsulation);
 * Labwork(4) - Operator overload;
 * Labwork(5) - Polymorphism;
+* Labwork(6) - Data structures - Linked list,templates;
+* Labwork(7-8) - Exceptions, GUI on QT;
